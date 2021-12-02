@@ -1,0 +1,229 @@
+{
+    "id": 6649,
+    "date": "2021-10-21T19:45:58",
+    "date_gmt": "2021-10-21T17:45:58",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=6649"
+    },
+    "modified": "2021-10-21T19:52:01",
+    "modified_gmt": "2021-10-21T17:52:01",
+    "slug": "10her-0632b-2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/10her-0632b-2/",
+    "title": {
+        "rendered": "10HER-0595B"
+    },
+    "content": {
+        "rendered": "\n<p></p>\n\n\n\n<h1 class=\"has-text-align-center\">Sauvetage du trois-m\u00e2ts HERNANI</h1>\n\n\n\n<h2 class=\"has-text-align-center\">19 janvier 1910&nbsp;</h2>\n\n\n\n<h2 class=\"has-text-align-center\">Equipage sauv\u00e9</h2>\n\n\n\n<p><sup><strong>Patron du canot</strong></sup><br><sup>Ar<a href=\"https://sauveteurdudunkerquois.fr/bosa-0257h/\">s\u00e8ne Bossu</a><br><strong>Armement du canot</strong></sup></p>\n\n\n\n<p></p>\n\n\n\n<p>Dunkerque</p>\n\n\n\n<p>Secours au trois-m\u00e2ts HERNANI</p>\n\n\n\n<p><sup><span class=\"has-inline-color has-black-color\">Source<br>Du sauvetage en mer \u00e0 Dunkerque &#8211; M\u00e9chain Raffoux&nbsp; Page 26</span></sup></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Sauvetage du trois-m\u00e2ts HERNANI 19 janvier 1910&nbsp; Equipage sauv\u00e9 Patron du canotArs\u00e8ne BossuArmement du canot Dunkerque Secours au trois-m\u00e2ts HERNANI SourceDu sauvetage en mer \u00e0 Dunkerque &#8211; M\u00e9chain Raffoux&nbsp; Page 26</p>\n",
+        "protected": false
+    },
+    "author": 2,
+    "featured_media": 1316,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>10HER-0595B &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Ars\u00e8ne Bossu et ses canotiers au sauvetage du HERNANI\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/10her-0632b-2/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"10HER-0595B &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Ars\u00e8ne Bossu et ses canotiers au sauvetage du HERNANI\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/10her-0632b-2/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-10-21T17:52:01+00:00\" />\n<meta property=\"og:image\" content=\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Bossu-Arsene-portrait.png\" />\n\t<meta property=\"og:image:width\" content=\"365\" />\n\t<meta property=\"og:image:height\" content=\"577\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/10her-0632b-2/#primaryimage\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Bossu-Arsene-portrait.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Bossu-Arsene-portrait.png\",\"width\":365,\"height\":577,\"caption\":\"Ars\\u00e8ne Bossu Patron du canot de Dunkerque\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/10her-0632b-2/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/10her-0632b-2/\",\"name\":\"10HER-0595B &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://sauveteurdudunkerquois.fr/10her-0632b-2/#primaryimage\"},\"datePublished\":\"2021-10-21T17:45:58+00:00\",\"dateModified\":\"2021-10-21T17:52:01+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * Ars\\u00e8ne Bossu et ses canotiers au sauvetage du HERNANI\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/10her-0632b-2/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/10her-0632b-2/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/10her-0632b-2/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"10HER-0595B\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "10HER-0595B &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Ars\u00e8ne Bossu et ses canotiers au sauvetage du HERNANI",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/10her-0632b-2/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "10HER-0595B &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Ars\u00e8ne Bossu et ses canotiers au sauvetage du HERNANI",
+        "og_url": "https://sauveteurdudunkerquois.fr/10her-0632b-2/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-10-21T17:52:01+00:00",
+        "og_image": [
+            {
+                "width": 365,
+                "height": 577,
+                "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Bossu-Arsene-portrait.png",
+                "type": "image/png"
+            }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "ImageObject",
+                    "@id": "https://sauveteurdudunkerquois.fr/10her-0632b-2/#primaryimage",
+                    "inLanguage": "fr-FR",
+                    "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Bossu-Arsene-portrait.png",
+                    "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Bossu-Arsene-portrait.png",
+                    "width": 365,
+                    "height": 577,
+                    "caption": "Ars\u00e8ne Bossu Patron du canot de Dunkerque"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/10her-0632b-2/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/10her-0632b-2/",
+                    "name": "10HER-0595B &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "primaryImageOfPage": {
+                        "@id": "https://sauveteurdudunkerquois.fr/10her-0632b-2/#primaryimage"
+                    },
+                    "datePublished": "2021-10-21T17:45:58+00:00",
+                    "dateModified": "2021-10-21T17:52:01+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Ars\u00e8ne Bossu et ses canotiers au sauvetage du HERNANI",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/10her-0632b-2/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/10her-0632b-2/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/10her-0632b-2/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "10HER-0595B"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6649"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/2"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=6649"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6649/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 6652,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6649/revisions/6652"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media/1316"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=6649"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

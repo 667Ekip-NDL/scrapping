@@ -1,0 +1,202 @@
+{
+    "id": 6804,
+    "date": "2021-10-22T15:24:12",
+    "date_gmt": "2021-10-22T13:24:12",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=6804"
+    },
+    "modified": "2021-11-30T12:13:50",
+    "modified_gmt": "2021-11-30T11:13:50",
+    "slug": "plan-du-site",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/plan-du-site/",
+    "title": {
+        "rendered": "Plan du site"
+    },
+    "content": {
+        "rendered": "\n<h1 class=\"has-text-align-center\">Votre site \u00e0 la carte</h1>\n\n\n\n<p class=\"has-text-align-center\"><em><strong>Page en cours de conception</strong></em></p>\n\n\n\n<p>Bonjour</p>\n\n\n\n<p>Vous trouverez ci-dessous un plan simplifi\u00e9 de votre site</p>\n\n\n\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<h2 class=\"has-cyan-bluish-gray-background-color has-background\"><a href=\"https://sauveteurdudunkerquois.fr/\">Les sauveteurs </a></h2>\n\n\n\n<p><sup>La raison d&rsquo;\u00eatre de ce site est de rendre hommage \u00e0 ces femmes et hommes  qui ont depuis plus de 250 ans fait preuve de courage et d&rsquo;abn\u00e9gation en allant, parfois au p\u00e9ril de leur vie, sauver des personnes en danger de noyade. En toute logique c&rsquo;est donc le menu de base de ce site</sup>.</p>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<ol><li><strong><a href=\"https://sauveteurdudunkerquois.fr/tableau-d-honneur/\">Tableau d&rsquo;honneur</a></strong><br>                                     <sup><em>Tous les sauveteurs qui ont re\u00e7u la L\u00e9gion d&rsquo;Honneur ou le M\u00e9rite Maritime</em></sup></li><li><strong><a href=\"https://sauveteurdudunkerquois.fr/nos-sauveteurs/\">Qui \u00e9taient ils</a></strong><br>                                     <sup><em>Fiches patronymiques des autres sauveteurs class\u00e9s par ordre alphab\u00e9tique</em></sup></li><li><a href=\"https://sauveteurdudunkerquois.fr/les-acteurs/\"><strong>Que faisaient ils</strong></a><br>                                    <sup> <em>Souvent  du monde maritime, comment conjuguer sauvetage et profession</em></sup></li><li><strong><a href=\"https://sauveteurdudunkerquois.fr/paroles-de/\">Paroles de</a></strong><br>                                    <em><sup>Citations de sauveteurs et de sauv\u00e9s</sup></em></li><li><strong><a href=\"https://sauveteurdudunkerquois.fr/sauveteurs-dailleurs/\">Sauveteurs d&rsquo;ailleurs</a></strong><br>                                    <em><sup> Autres sauveteurs en mer hors dunkerquois<br></sup></em></li></ol>\n</div></div>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Votre site \u00e0 la carte Page en cours de conception Bonjour Vous trouverez ci-dessous un plan simplifi\u00e9 de votre site Les sauveteurs La raison d&rsquo;\u00eatre de ce site est de rendre hommage \u00e0 ces femmes et hommes qui ont depuis plus de 250 ans fait preuve de courage et d&rsquo;abn\u00e9gation en allant, parfois au p\u00e9ril [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Plan du site &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * plan du site contenu navigation\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/plan-du-site/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Plan du site &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * plan du site contenu navigation\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/plan-du-site/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-11-30T11:13:50+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/plan-du-site/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/plan-du-site/\",\"name\":\"Plan du site &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"datePublished\":\"2021-10-22T13:24:12+00:00\",\"dateModified\":\"2021-11-30T11:13:50+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * plan du site contenu navigation\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/plan-du-site/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/plan-du-site/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/plan-du-site/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Plan du site\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Plan du site &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * plan du site contenu navigation",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/plan-du-site/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "Plan du site &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * plan du site contenu navigation",
+        "og_url": "https://sauveteurdudunkerquois.fr/plan-du-site/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-11-30T11:13:50+00:00",
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/plan-du-site/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/plan-du-site/",
+                    "name": "Plan du site &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "datePublished": "2021-10-22T13:24:12+00:00",
+                    "dateModified": "2021-11-30T11:13:50+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * plan du site contenu navigation",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/plan-du-site/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/plan-du-site/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/plan-du-site/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Plan du site"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6804"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/2"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=6804"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 9,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6804/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 9283,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6804/revisions/9283"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=6804"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

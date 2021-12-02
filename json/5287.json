@@ -1,0 +1,202 @@
+{
+    "id": 5287,
+    "date": "2021-10-14T20:04:57",
+    "date_gmt": "2021-10-14T18:04:57",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=5287"
+    },
+    "modified": "2021-10-15T13:50:00",
+    "modified_gmt": "2021-10-15T11:50:00",
+    "slug": "94mar-0353b",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/94mar-0353b/",
+    "title": {
+        "rendered": "94MAR-0353B"
+    },
+    "content": {
+        "rendered": "\n<h1 class=\"has-text-align-center\">Sauvetage de la go\u00e9lette de Lannion MARIE ALICE</h1>\n\n\n\n<h2 class=\"has-text-align-center\">29 novembre 1894</h2>\n\n\n\n<h2 class=\"has-text-align-center\">Equipage sauv\u00e9</h2>\n\n\n\n<p></p>\n\n\n\n<p><strong><sup>Armement du Progr\u00e8s</sup></strong></p>\n\n\n\n<p>Dunkerque</p>\n\n\n\n<p>Command\u00e9 par son armateur <strong>Lemaon </strong>le MARIE ALICE s\u2019\u00e9choue vers deux heures sur la plage de Fort Mardyck.</p>\n\n\n\n<p>Le remorqueur LE PROGRES tente vainement de renflouer le navire qui est consid\u00e9r\u00e9 comme perdu. L\u2019\u00e9quipage est sauv\u00e9 .</p>\n\n\n\n<p><sup><span class=\"has-inline-color has-black-color\">Source<br> Le grand \u00e9cho du Nord de la France</span></sup></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Sauvetage de la go\u00e9lette de Lannion MARIE ALICE 29 novembre 1894 Equipage sauv\u00e9 Armement du Progr\u00e8s Dunkerque Command\u00e9 par son armateur Lemaon le MARIE ALICE s\u2019\u00e9choue vers deux heures sur la plage de Fort Mardyck. Le remorqueur LE PROGRES tente vainement de renflouer le navire qui est consid\u00e9r\u00e9 comme perdu. L\u2019\u00e9quipage est sauv\u00e9 . Source [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 6,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>94MAR-0353B &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * sauvetage d&#039;une go\u00e9lette de Lannion par un remorqueur\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/94mar-0353b/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"94MAR-0353B &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * sauvetage d&#039;une go\u00e9lette de Lannion par un remorqueur\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/94mar-0353b/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-10-15T11:50:00+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/94mar-0353b/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/94mar-0353b/\",\"name\":\"94MAR-0353B &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"datePublished\":\"2021-10-14T18:04:57+00:00\",\"dateModified\":\"2021-10-15T11:50:00+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * sauvetage d'une go\\u00e9lette de Lannion par un remorqueur\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/94mar-0353b/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/94mar-0353b/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/94mar-0353b/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"94MAR-0353B\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "94MAR-0353B &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * sauvetage d'une go\u00e9lette de Lannion par un remorqueur",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/94mar-0353b/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "94MAR-0353B &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * sauvetage d'une go\u00e9lette de Lannion par un remorqueur",
+        "og_url": "https://sauveteurdudunkerquois.fr/94mar-0353b/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-10-15T11:50:00+00:00",
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/94mar-0353b/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/94mar-0353b/",
+                    "name": "94MAR-0353B &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "datePublished": "2021-10-14T18:04:57+00:00",
+                    "dateModified": "2021-10-15T11:50:00+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * sauvetage d'une go\u00e9lette de Lannion par un remorqueur",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/94mar-0353b/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/94mar-0353b/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/94mar-0353b/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "94MAR-0353B"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/5287"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=5287"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/5287/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5417,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/5287/revisions/5417"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=5287"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

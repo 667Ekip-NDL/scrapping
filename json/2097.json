@@ -1,0 +1,220 @@
+{
+    "id": 2097,
+    "date": "2021-09-22T03:16:54",
+    "date_gmt": "2021-09-22T01:16:54",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=2097"
+    },
+    "modified": "2021-10-20T00:00:49",
+    "modified_gmt": "2021-10-19T22:00:49",
+    "slug": "materiels",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/materiels/",
+    "title": {
+        "rendered": "Techniques"
+    },
+    "content": {
+        "rendered": "\n<h1 class=\"has-text-align-center\">Mat\u00e9riels et techniques de sauvetage</h1>\n\n\n\n<h4>L\u2019ENCADREMENT JURIDIQUE DU SAUVETAGE EN MER</h4>\n\n\n\n<div class=\"wp-block-columns\">\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%\">\n<p>Les interventions des sauveteurs en mer d\u00e9pendent d\u2019une l\u00e9gislation qui diff\u00e8re de celle applicable aux secours terrestres, du fait de la difficult\u00e9 de limiter (de mat\u00e9rialiser) les espaces d\u2019intervention en mer.</p>\n\n\n\n<p><em>C\u2019est \u00e0 partir du XVII\u00e8me si\u00e8cle, que le sauvetage en mer prend une dimension l\u00e9gale plus ferme, notamment sous l\u2019influence du colbertisme avec&nbsp;l\u2019article 11 de l\u2019Ordonnance royale&nbsp;qui \u00e9non\u00e7ait :&nbsp;</em></p>\n\n\n\n<p><em>Enjoignons \u00e0 nos sujets de faire tout devoir pour secourir les personnes qu\u2019ils verront dans le danger de naufrage&#8230;.&nbsp;&nbsp;</em></p>\n\n\n\n<p><em>A suivre ci-contre&#8230;.</em></p>\n</div>\n\n\n\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-full is-resized\"><img loading=\"lazy\" src=\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg\" alt=\"\" class=\"wp-image-4339\" width=\"137\" height=\"135\"/></figure></div>\n</div>\n</div>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Mat\u00e9riels et techniques de sauvetage L\u2019ENCADREMENT JURIDIQUE DU SAUVETAGE EN MER Les interventions des sauveteurs en mer d\u00e9pendent d\u2019une l\u00e9gislation qui diff\u00e8re de celle applicable aux secours terrestres, du fait de la difficult\u00e9 de limiter (de mat\u00e9rialiser) les espaces d\u2019intervention en mer. C\u2019est \u00e0 partir du XVII\u00e8me si\u00e8cle, que le sauvetage en mer prend une [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Techniques &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Encadrement juridique du sauvetage\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/materiels/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Techniques &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Encadrement juridique du sauvetage\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/materiels/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-10-19T22:00:49+00:00\" />\n<meta property=\"og:image\" content=\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/materiels/#primaryimage\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg\",\"width\":243,\"height\":240,\"caption\":\"Logo L\\u00e9gifrance\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/materiels/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/materiels/\",\"name\":\"Techniques &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://sauveteurdudunkerquois.fr/materiels/#primaryimage\"},\"datePublished\":\"2021-09-22T01:16:54+00:00\",\"dateModified\":\"2021-10-19T22:00:49+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * Encadrement juridique du sauvetage\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/materiels/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/materiels/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/materiels/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Techniques\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Techniques &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Encadrement juridique du sauvetage",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/materiels/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "Techniques &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Encadrement juridique du sauvetage",
+        "og_url": "https://sauveteurdudunkerquois.fr/materiels/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-10-19T22:00:49+00:00",
+        "og_image": [
+            {
+                "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg"
+            }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "ImageObject",
+                    "@id": "https://sauveteurdudunkerquois.fr/materiels/#primaryimage",
+                    "inLanguage": "fr-FR",
+                    "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg",
+                    "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/10/Logo-legifrance.jpg",
+                    "width": 243,
+                    "height": 240,
+                    "caption": "Logo L\u00e9gifrance"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/materiels/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/materiels/",
+                    "name": "Techniques &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "primaryImageOfPage": {
+                        "@id": "https://sauveteurdudunkerquois.fr/materiels/#primaryimage"
+                    },
+                    "datePublished": "2021-09-22T01:16:54+00:00",
+                    "dateModified": "2021-10-19T22:00:49+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Encadrement juridique du sauvetage",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/materiels/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/materiels/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/materiels/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Techniques"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/2097"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/2"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=2097"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 3,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/2097/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 4340,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/2097/revisions/4340"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=2097"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

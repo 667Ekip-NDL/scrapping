@@ -1,0 +1,229 @@
+{
+    "id": 1438,
+    "date": "2021-09-15T14:28:15",
+    "date_gmt": "2021-09-15T12:28:15",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=1438"
+    },
+    "modified": "2021-10-06T11:03:53",
+    "modified_gmt": "2021-10-06T09:03:53",
+    "slug": "fica-1075h",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/fica-1075h/",
+    "title": {
+        "rendered": "FICA-1075H"
+    },
+    "content": {
+        "rendered": "\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" width=\"1024\" height=\"587\" src=\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/En-construction-1024x587.png\" alt=\"En attente\" class=\"wp-image-1330\"/></figure>\n\n\n\n<p></p>\n\n\n\n<h4>FICQUET ANTOINE</h4>\n\n\n\n<p>PILOTE</p>\n\n\n\n<p>015B</p>\n\n\n\n<p>0054B</p>\n\n\n\n<p>0334B</p>\n\n\n\n<p>0330B</p>\n\n\n\n<p>0123B</p>\n\n\n\n<p>0203B</p>\n\n\n\n<p>0248B</p>\n\n\n\n<p>0135B</p>\n\n\n\n<p>0150B</p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>FICQUET ANTOINE PILOTE 015B 0054B 0334B 0330B 0123B 0203B 0248B 0135B 0150B</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 1728,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>FICA-1075H &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Antoine Ficquet pilote et sauveteur \u00e9m\u00e9rite du dunkerquois\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/fica-1075h/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"FICA-1075H &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Antoine Ficquet pilote et sauveteur \u00e9m\u00e9rite du dunkerquois\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/fica-1075h/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-10-06T09:03:53+00:00\" />\n<meta property=\"og:image\" content=\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Ancre-des-pilotes.png\" />\n\t<meta property=\"og:image:width\" content=\"142\" />\n\t<meta property=\"og:image:height\" content=\"207\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/fica-1075h/#primaryimage\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Ancre-des-pilotes.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Ancre-des-pilotes.png\",\"width\":142,\"height\":207,\"caption\":\"Ancre des pilotes\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/fica-1075h/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/fica-1075h/\",\"name\":\"FICA-1075H &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://sauveteurdudunkerquois.fr/fica-1075h/#primaryimage\"},\"datePublished\":\"2021-09-15T12:28:15+00:00\",\"dateModified\":\"2021-10-06T09:03:53+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * Antoine Ficquet pilote et sauveteur \\u00e9m\\u00e9rite du dunkerquois\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/fica-1075h/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/fica-1075h/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/fica-1075h/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FICA-1075H\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "FICA-1075H &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Antoine Ficquet pilote et sauveteur \u00e9m\u00e9rite du dunkerquois",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/fica-1075h/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "FICA-1075H &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Antoine Ficquet pilote et sauveteur \u00e9m\u00e9rite du dunkerquois",
+        "og_url": "https://sauveteurdudunkerquois.fr/fica-1075h/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-10-06T09:03:53+00:00",
+        "og_image": [
+            {
+                "width": 142,
+                "height": 207,
+                "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Ancre-des-pilotes.png",
+                "type": "image/png"
+            }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "ImageObject",
+                    "@id": "https://sauveteurdudunkerquois.fr/fica-1075h/#primaryimage",
+                    "inLanguage": "fr-FR",
+                    "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Ancre-des-pilotes.png",
+                    "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/Ancre-des-pilotes.png",
+                    "width": 142,
+                    "height": 207,
+                    "caption": "Ancre des pilotes"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/fica-1075h/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/fica-1075h/",
+                    "name": "FICA-1075H &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "primaryImageOfPage": {
+                        "@id": "https://sauveteurdudunkerquois.fr/fica-1075h/#primaryimage"
+                    },
+                    "datePublished": "2021-09-15T12:28:15+00:00",
+                    "dateModified": "2021-10-06T09:03:53+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Antoine Ficquet pilote et sauveteur \u00e9m\u00e9rite du dunkerquois",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/fica-1075h/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/fica-1075h/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/fica-1075h/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "FICA-1075H"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/1438"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=1438"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/1438/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 1439,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/1438/revisions/1439"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media/1728"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=1438"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
