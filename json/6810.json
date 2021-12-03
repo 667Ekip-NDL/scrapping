@@ -1,0 +1,202 @@
+{
+    "id": 6810,
+    "date": "2021-10-22T15:27:32",
+    "date_gmt": "2021-10-22T13:27:32",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=6810"
+    },
+    "modified": "2021-11-30T11:56:40",
+    "modified_gmt": "2021-11-30T10:56:40",
+    "slug": "lettre-hebdomadaire",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/",
+    "title": {
+        "rendered": "Lettre hebdomadaire"
+    },
+    "content": {
+        "rendered": "\n<p>Bonjour,</p>\n\n\n\n<p>Pour ne rien rater des publications hebdomadaires et obtenir des donn\u00e9es compl\u00e9mentaires inscrivez vous au Boutakoff.</p>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n<div class=\"wpforms-container wpforms-container-full\" id=\"wpforms-7861\"><form id=\"wpforms-form-7861\" class=\"wpforms-validate wpforms-form wpforms-ajax-form\" data-formid=\"7861\" method=\"post\" enctype=\"multipart/form-data\" action=\"/wp-json/wp/v2/pages/6810\" data-token=\"cc355a716765843498dbade02c6f0cd4\"><noscript class=\"wpforms-error-noscript\">Veuillez activer JavaScript dans votre navigateur pour remplir ce formulaire.</noscript><div class=\"wpforms-field-container\"><div id=\"wpforms-7861-field_1-container\" class=\"wpforms-field wpforms-field-name\" data-field-id=\"1\"><label class=\"wpforms-field-label\" for=\"wpforms-7861-field_1\">Nom <span class=\"wpforms-required-label\">*</span></label><div class=\"wpforms-field-row wpforms-field-medium\"><div class=\"wpforms-field-row-block wpforms-first wpforms-one-half\"><input type=\"text\" id=\"wpforms-7861-field_1\" class=\"wpforms-field-name-first wpforms-field-required\" name=\"wpforms[fields][1][first]\" required><label for=\"wpforms-7861-field_1\" class=\"wpforms-field-sublabel after \">Pr\u00e9nom</label></div><div class=\"wpforms-field-row-block wpforms-one-half\"><input type=\"text\" id=\"wpforms-7861-field_1-last\" class=\"wpforms-field-name-last wpforms-field-required\" name=\"wpforms[fields][1][last]\" required><label for=\"wpforms-7861-field_1-last\" class=\"wpforms-field-sublabel after \">Nom</label></div></div></div><div id=\"wpforms-7861-field_5-container\" class=\"wpforms-field wpforms-field-email\" data-field-id=\"5\"><label class=\"wpforms-field-label\" for=\"wpforms-7861-field_5\">E-mail <span class=\"wpforms-required-label\">*</span></label><input type=\"email\" id=\"wpforms-7861-field_5\" class=\"wpforms-field-medium wpforms-field-required\" name=\"wpforms[fields][5]\" required></div></div><input type=\"hidden\" name=\"wpforms[recaptcha]\" value=\"\"><div class=\"wpforms-submit-container\"><input type=\"hidden\" name=\"wpforms[id]\" value=\"7861\"><input type=\"hidden\" name=\"wpforms[author]\" value=\"2\"><button type=\"submit\" name=\"wpforms[submit]\" id=\"wpforms-submit-7861\" class=\"wpforms-submit\" data-alt-text=\"Envoi...\" data-submit-text=\"Envoyer\" aria-live=\"assertive\" value=\"wpforms-submit\">Envoyer</button><img src=\"https://sauveteurdudunkerquois.fr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"\"></div></form></div>  <!-- .wpforms-container -->\n\n\n<p></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Bonjour, Pour ne rien rater des publications hebdomadaires et obtenir des donn\u00e9es compl\u00e9mentaires inscrivez vous au Boutakoff.</p>\n",
+        "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Lettre hebdomadaire &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Inscrivez vous \u00e0 la lettre d&#039;information du site Le boutakoff\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Lettre hebdomadaire &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Inscrivez vous \u00e0 la lettre d&#039;information du site Le boutakoff\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-11-30T10:56:40+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/\",\"name\":\"Lettre hebdomadaire &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"datePublished\":\"2021-10-22T13:27:32+00:00\",\"dateModified\":\"2021-11-30T10:56:40+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * Inscrivez vous \\u00e0 la lettre d'information du site Le boutakoff\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Lettre hebdomadaire\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Lettre hebdomadaire &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Inscrivez vous \u00e0 la lettre d'information du site Le boutakoff",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "Lettre hebdomadaire &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Inscrivez vous \u00e0 la lettre d'information du site Le boutakoff",
+        "og_url": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-11-30T10:56:40+00:00",
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/",
+                    "name": "Lettre hebdomadaire &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "datePublished": "2021-10-22T13:27:32+00:00",
+                    "dateModified": "2021-11-30T10:56:40+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Inscrivez vous \u00e0 la lettre d'information du site Le boutakoff",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/lettre-hebdomadaire/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Lettre hebdomadaire"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6810"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/2"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=6810"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 6,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6810/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 9276,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/6810/revisions/9276"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=6810"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

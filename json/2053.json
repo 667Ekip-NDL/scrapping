@@ -1,0 +1,202 @@
+{
+    "id": 2053,
+    "date": "2021-09-21T22:35:41",
+    "date_gmt": "2021-09-21T20:35:41",
+    "guid": {
+        "rendered": "https://sauveteurdudunkerquois.fr/?page_id=2053"
+    },
+    "modified": "2021-11-25T13:35:15",
+    "modified_gmt": "2021-11-25T12:35:15",
+    "slug": "les-stations",
+    "status": "publish",
+    "type": "page",
+    "link": "https://sauveteurdudunkerquois.fr/les-stations/",
+    "title": {
+        "rendered": "Stations"
+    },
+    "content": {
+        "rendered": "\n<p>/</p>\n\n\n\n<h1 class=\"has-text-align-center\"><strong>Les 5 stations de sauvetage en mer du dunkerquois</strong></h1>\n\n\n\n<p></p>\n\n\n\n<p>La premi\u00e8re station du littoral dunkerquois est cr\u00e9\u00e9e en 1834 par la Soci\u00e9t\u00e9 Humaine de Dunkerque \u00e0&nbsp;&nbsp;<strong>Dunkerque.</strong></p>\n\n\n\n<p></p>\n\n\n\n<p>En 1866 la station de\u00a0<strong>Gravelines</strong>\u00a0est cr\u00e9\u00e9e sous l&rsquo;\u00e9gide de la Soci\u00e9t\u00e9 Centrale de Sauvetage des Naufrag\u00e9s (SCSN).</p>\n\n\n\n<p></p>\n\n\n\n<p>En 1872 la Soci\u00e9t\u00e9 Humaine de Dunkerque rejoint la SCSN.</p>\n\n\n\n<p></p>\n\n\n\n<p>En 1879 La\u00a0 SCNS cr\u00e9e une\u00a0 station \u00e0\u00a0\u00a0<strong>Fort-Mardyck\u00a0</strong>qui fermera en 1919.</p>\n\n\n\n<p></p>\n\n\n\n<p>En 1891 La&nbsp;SCNS cr\u00e9e une&nbsp; station \u00e0&nbsp;<strong>&nbsp;Malo-les-Bains</strong>&nbsp;qui fermera en 1904.</p>\n\n\n\n<p></p>\n\n\n\n<p>En 1959 les Hospitaliers Bretons cr\u00e9ent une station \u00e0\u00a0<strong>Bray-Dunes</strong> &#8211; Station ferm\u00e9e de nos jours.</p>\n\n\n\n<p></p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>/ Les 5 stations de sauvetage en mer du dunkerquois La premi\u00e8re station du littoral dunkerquois est cr\u00e9\u00e9e en 1834 par la Soci\u00e9t\u00e9 Humaine de Dunkerque \u00e0&nbsp;&nbsp;Dunkerque. En 1866 la station de\u00a0Gravelines\u00a0est cr\u00e9\u00e9e sous l&rsquo;\u00e9gide de la Soci\u00e9t\u00e9 Centrale de Sauvetage des Naufrag\u00e9s (SCSN). En 1872 la Soci\u00e9t\u00e9 Humaine de Dunkerque rejoint la SCSN. En [&hellip;]</p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.7.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Stations &#8902; Sauveteurs du dunkerquois</title>\n<meta name=\"description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Historique et acc\u00e8s aux diff\u00e9rentes stations de sauvetage du Dunkerquois\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://sauveteurdudunkerquois.fr/les-stations/\" />\n<meta property=\"og:locale\" content=\"fr_FR\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Stations &#8902; Sauveteurs du dunkerquois\" />\n<meta property=\"og:description\" content=\"L&#039;histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Historique et acc\u00e8s aux diff\u00e9rentes stations de sauvetage du Dunkerquois\" />\n<meta property=\"og:url\" content=\"https://sauveteurdudunkerquois.fr/les-stations/\" />\n<meta property=\"og:site_name\" content=\"Sauveteurs du dunkerquois\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/groups/938396409644949\" />\n<meta property=\"article:modified_time\" content=\"2021-11-25T12:35:15+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@boutelierphili1\" />\n<meta name=\"twitter:label1\" content=\"Dur\u00e9e de lecture estim\u00e9e\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\",\"name\":\"Sauveteurs du dunkerquois\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"sameAs\":[\"https://www.facebook.com/groups/938396409644949\",\"https://twitter.com/boutelierphili1\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\",\"inLanguage\":\"fr-FR\",\"url\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"contentUrl\":\"https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png\",\"width\":500,\"height\":218,\"caption\":\"Sauveteurs du dunkerquois\"},\"image\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://sauveteurdudunkerquois.fr/#website\",\"url\":\"https://sauveteurdudunkerquois.fr/\",\"name\":\"Sauveteurs du dunkerquois\",\"description\":\"270 ans d&#039;histoire\",\"publisher\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sauveteurdudunkerquois.fr/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"WebPage\",\"@id\":\"https://sauveteurdudunkerquois.fr/les-stations/#webpage\",\"url\":\"https://sauveteurdudunkerquois.fr/les-stations/\",\"name\":\"Stations &#8902; Sauveteurs du dunkerquois\",\"isPartOf\":{\"@id\":\"https://sauveteurdudunkerquois.fr/#website\"},\"datePublished\":\"2021-09-21T20:35:41+00:00\",\"dateModified\":\"2021-11-25T12:35:15+00:00\",\"description\":\"L'histoire des sauveteurs du dunkerquois de 1740 \\u00e0 nos jours * Historique et acc\\u00e8s aux diff\\u00e9rentes stations de sauvetage du Dunkerquois\",\"breadcrumb\":{\"@id\":\"https://sauveteurdudunkerquois.fr/les-stations/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sauveteurdudunkerquois.fr/les-stations/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sauveteurdudunkerquois.fr/les-stations/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://sauveteurdudunkerquois.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Stations\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Stations &#8902; Sauveteurs du dunkerquois",
+        "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Historique et acc\u00e8s aux diff\u00e9rentes stations de sauvetage du Dunkerquois",
+        "robots": {
+            "index": "index",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://sauveteurdudunkerquois.fr/les-stations/",
+        "og_locale": "fr_FR",
+        "og_type": "article",
+        "og_title": "Stations &#8902; Sauveteurs du dunkerquois",
+        "og_description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Historique et acc\u00e8s aux diff\u00e9rentes stations de sauvetage du Dunkerquois",
+        "og_url": "https://sauveteurdudunkerquois.fr/les-stations/",
+        "og_site_name": "Sauveteurs du dunkerquois",
+        "article_publisher": "https://www.facebook.com/groups/938396409644949",
+        "article_modified_time": "2021-11-25T12:35:15+00:00",
+        "twitter_card": "summary_large_image",
+        "twitter_site": "@boutelierphili1",
+        "twitter_misc": {
+            "Dur\u00e9e de lecture estim\u00e9e": "1 minute"
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "@id": "https://sauveteurdudunkerquois.fr/#organization",
+                    "name": "Sauveteurs du dunkerquois",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "sameAs": [
+                        "https://www.facebook.com/groups/938396409644949",
+                        "https://twitter.com/boutelierphili1"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo",
+                        "inLanguage": "fr-FR",
+                        "url": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "contentUrl": "https://sauveteurdudunkerquois.fr/wp-content/uploads/2021/09/LOGO-DUO-e1632854536971.png",
+                        "width": 500,
+                        "height": 218,
+                        "caption": "Sauveteurs du dunkerquois"
+                    },
+                    "image": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#logo"
+                    }
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://sauveteurdudunkerquois.fr/#website",
+                    "url": "https://sauveteurdudunkerquois.fr/",
+                    "name": "Sauveteurs du dunkerquois",
+                    "description": "270 ans d&#039;histoire",
+                    "publisher": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://sauveteurdudunkerquois.fr/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "fr-FR"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://sauveteurdudunkerquois.fr/les-stations/#webpage",
+                    "url": "https://sauveteurdudunkerquois.fr/les-stations/",
+                    "name": "Stations &#8902; Sauveteurs du dunkerquois",
+                    "isPartOf": {
+                        "@id": "https://sauveteurdudunkerquois.fr/#website"
+                    },
+                    "datePublished": "2021-09-21T20:35:41+00:00",
+                    "dateModified": "2021-11-25T12:35:15+00:00",
+                    "description": "L'histoire des sauveteurs du dunkerquois de 1740 \u00e0 nos jours * Historique et acc\u00e8s aux diff\u00e9rentes stations de sauvetage du Dunkerquois",
+                    "breadcrumb": {
+                        "@id": "https://sauveteurdudunkerquois.fr/les-stations/#breadcrumb"
+                    },
+                    "inLanguage": "fr-FR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://sauveteurdudunkerquois.fr/les-stations/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://sauveteurdudunkerquois.fr/les-stations/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Accueil",
+                            "item": "https://sauveteurdudunkerquois.fr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Stations"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/2053"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/comments?post=2053"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 4,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/2053/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 8919,
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/pages/2053/revisions/8919"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://sauveteurdudunkerquois.fr/wp-json/wp/v2/media?parent=2053"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
